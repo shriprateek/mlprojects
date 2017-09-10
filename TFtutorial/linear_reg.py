@@ -1,7 +1,11 @@
 '''Implementation of simple linear regression for practicing basics'''
 
+#Import Packages
 import tensorflow as tf
+
+#Create Session
 sess = tf.Session()
+
 print("\n\nOutput: \n")
 print("#########################\n")
 ###################

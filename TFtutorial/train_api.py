@@ -2,7 +2,6 @@
 
 #Import Packages
 import tensorflow as tf
-import numpy as np
 
 #Create Session
 sess = tf.Session()

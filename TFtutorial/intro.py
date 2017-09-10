@@ -1,7 +1,11 @@
 '''Introductory Module for Understanding DataTypes'''
 
+#Import Packages
 import tensorflow as tf
+
+#Create Session
 sess = tf.Session()
+
 print("\n\nOutput: \n")
 print("#########################\n")
 ###################
